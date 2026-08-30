@@ -1,0 +1,260 @@
+Name                      Namespace       Installed   Latest      Identifier
+AdaptiveBinarize          abrz                        r1          com.julek.abrz
+autocrop                  acrop                       0.1         autocrop.infiistgott.info
+adjust                    adjust                      git:a3af7cb adjust
+Expr                      akarin                      v0.96       info.akarin.vsplugin
+Anime4KCPP                anime4kcpp                  v3.2.0      github.tianzerl.anime4kcpp
+AreaResize                area                        r2          com.vapoursynth.arearesize
+AreaFilter                areafilter                  R2          com.yuygfgg.areafilter
+AudioResample             ares                        v0.4.0      com.ropagr.ares
+artyfox                   artyfox                     R21         ru.artyfox.plugins
+ASharp                    asharp                      v1          com.nodame.asharp
+assrender                 assrender                   0.38.2      com.masaiki.assrender
+ASTDR                     ASTDR                       v4          ASTDR
+Atomch Tools              atomchtools                 0.9         atomchtools
+AudioTools                atools                      v0.1.0      com.ropagr.atools
+ATWT                      atwt                        R2          com.yuygfgg.atwt
+vs-average                average                     v0.5.0-beta eoe-nephren.average
+AVISource (obsolete)      avisource                   R1          com.vapoursynth.avisource
+vsmlrt_script             vsmlrt_script               v15.16      io.github.amusementclub.vsmlrt_script
+vs-rgtools                vsrgtools                   1.9.2       vsrgtools
+vs-rife                   vsrife                      5.7.0       vsrife
+vs-scale                  vsscale                     2.3.3       vsscale
+SwinIR                    vsswinir                    2.0.0       vsswinir
+vsTAAmbk                  vsTAAmbk                    v0.8.2      vstaambk
+VSUtil                    vsutil                      0.8.0       vsutil
+vapoursynth-zip           vszip                       R13         com.julek.vszip
+Waifu2x NCNN Vulkan       w2xnvk                      r5          net.nlzy.vsw2xnvk
+Waifu2x NCNN Vulkan models w2xnvk_models               r0.1        net.nlzy.vsw2xnvk.models
+AWarpSharp2               warp                        v4          com.nodame.awarpsharp2
+Warpsharp                 warpsf                      r1          com.zonked.awarpsharp2
+webp                      webp                        v1.0.10     sgt.webp
+WNNM                      wnnm                        v3          com.wolframrhodium.wnnm
+WarpSharpSupport          wss                         R1          wss
+WWXD                      wwxd                        v1.0        com.nodame.wwxd
+xaa                       xaa                         v3          xaa
+xClean                    xclean                      git:3d7f5c1 xClean
+xvs                       xvs                         git:1e914b8 xvs
+xy-VSFilter               xyvsf                       r3          com.xy.vsfilter
+Yadifmod                  yadifmod                    r10         com.holywu.yadifmod
+zbilateral                zbilateral                  r1          com.julek.zbilateral
+zboxblur                  zboxblur                    R3          com.julek.zboxblur
+ZNEDI3                    znedi3                      r3.3        xxx.abc.znedi3
+Zscene                    zscene                      0.5         com.adub.zscene
+Zsmooth                   zsmooth                     0.20.0      com.adub.zsmooth
+AvsProxy                  avsw                        r3          xxx.abc.avsproxy
+AWarp                     awarp                       r2          com.holywu.awarp
+BezierCurve               bezier                      r3          com.kewenyu.bezier
+Bifrost                   bifrost                     v3.0        com.nodame.bifrost
+Bilateral                 bilateral                   r3          com.invalid.identifier.bilateral
+BilateralGPU              bilateralgpu                r14         com.wolframrhodium.bilateralGPU
+BilateralGPU RTC          bilateralgpu_rtc             r14         com.wolframrhodium.bilateralgpu_rtc
+BM3D                      bm3d                        r8          com.vapoursynth.bm3d
+BM3DCPU                   bm3dcpu                     R2.15       com.wolframrhodium.bm3dcpu
+BM3DCUDA                  bm3dcuda                    R2.15       com.wolframrhodium.bm3dcuda
+BM3DCUDA RTC              bm3dcuda_rtc                R2.15       com.wolframrhodium.bm3dcuda_rtc
+BM3DCUDA HIP              bm3dhip                     R2.15       com.wolframrhodium.bm3dhip_amd
+BM3DCUDA SYCL             bm3dsycl                    R2.14       com.wolframrhodium.bm3dsycl
+BM3DCUDA SYCL Runtimes    bm3dsycl_runtimes             R2.14       com.wolframrhodium.bm3dsycl.runtimes
+bore                      bore                        v1.0.0      ng.opusga.bore
+BestSource                bs                          R19         com.vapoursynth.bestsource
+Bwdif                     bwdif                       r4.1        com.holywu.bwdif
+cambi                     cambi                       v1.2.0      sgt.cambi
+CAS - Contrast Adaptive Sharpening cas                         r2          com.holywu.cas
+Checkmate                 checkmate                   r2          com.julek.checkmate
+chromanr                  chromanr                    R1          com.julek.chromanr
+chromanr cuda             chromanrcuda                r1          com.julek.chromanrcuda
+Cnr2                      cnr2                        v1          com.nodame.cnr2
+ColorBars                 colorbars                   R4          com.ifb.colorbars
+colorfade                 colorfade                   git:bed42cc colorfade
+CTMF                      ctmf                        r5          com.holywu.ctmf
+Curve                     curve                       r3          com.holywu.curve
+ccl_filter                cv_ccl                      v0.2.1      com.dtlnor.cv_ccl
+cv_hfs                    cv_hfs                      r1          com.julek.cv_hfs
+cv_inpaint                cv_inpaint                  r1          com.julek.cv_inpaint
+D2V Source                d2v                         v1.3        com.sources.d2vsource
+damb                      damb                        v3          com.nodame.damb
+DCTFilter                 dctf                        r2          com.holywu.dctfilter
+Deblock                   deblock                     r7.1        com.holywu.deblock
+DeCross                   decross                     v1          com.nodame.decross
+DeDot                     dedot                       v1          com.nodame.dedot
+DeLogoHD                  delogohd                    r12         in.7086.delogohd
+DePan                     depan                       r1          com.holywu.depan
+Descale                   descale                     r11         tegaf.asi.xe
+Descale Script            descale                     r8          descale_script
+DeScratch                 descratch                   R3          com.vapoursynth.descratch
+Destripe                  destripe                    git:6ecb06f destripe
+DFMDerainbow              dfmderainbow                git:44dc654 dfmderainbow
+DFTTest                   dfttest                     r7          com.holywu.dfttest
+dfttest2-Script           dfttest2_script             v10         dfttest2
+dfttest2-cpu              dfttest2_cpu                v10         io.github.amusementclub.dfttest2_cpu
+dfttest2-cuda             dfttest2_cuda               v10         io.github.amusementclub.dfttest2_cuda
+dfttest2-cuda-runtime     dfttest2_cuda_runtime             v10         io.github.amusementclub.dfttest2_cuda_runtime
+DGHDRtoSDR                dghdrtosdr                  1.16        com.vapoursynth.dghdrtosdr
+degrainmedian             dgm                         v1          com.nodame.degrainmedian
+dmetrics                  dmetrics                    R1          com.vapoursynth.dmetrics
+DotKill                   dotkill                     R2          com.vapoursynth.dotkill
+Dovi Library              dovi_library                2.3.3       org.dovi.dovi
+Dpid                      dpid                        r6          com.wolframrhodium.dpid
+Draw                      draw                        r3          com.kewenyu.draw
+EdgeFixer                 edgefixer                   r3          the.weather.channel
+EdgeMasks                 edgemasks                   r3.2        com.holywu.edgemasks
+edi_rpow2                 edi_rpow2                   rev29       edi_rpow2
+EEDI2                     eedi2                       r7          com.holywu.eedi2
+EEDI3 (obsolete)          eedi3                       R1          com.vapoursynth.eedi3
+EEDI3m                    eedi3m                      r8          com.holywu.eedi3
+EEDI3VK                   eedi3vk                     R1.2        com.yuygfgg.eedi3vk
+EqualizeHist              ehist                       r2          com.julek.ehist
+fillborders               fb                          v2          com.nodame.fillborders
+FelBaker                  fel                         1.0.0       com.vapoursynth.felbaker
+FFmpegSource2             ffms2                       5.0         com.vapoursynth.ffms2
+FFT3DFilter               fft3dfilter                 R2          systems.innocent.fft3dfilter
+AvsReader                 avsr                        1.0.0       chikuzen.does.not.have.his.own.domain.avsr
+Butteraugli               butteraugli                 r2          system.Butteraugli.butteraugli
+DeLogo                    delogo                      v0.4        in.7086.delogo
+DGMVCSourceVS             DGMVC                       v1.0.0      systems.innocent.DGMVC
+FFTSpectrum               fftspectrum                 r1          org.beatrice-raws.fftspectrum
+ImageMagick Writer-Reader (IMWRI) imwri                       R2          com.vapoursynth.imwri
+MiniDeen                  minideen                    v2          com.nodame.minideen
+Neo Vague Denoiser        neo_vd                      r3          in.7086.neo_vd
+Plum                      Plum                        git:f5d40e2 plum
+RealSR models             rsnv_models                 r1          com.vapoursynth.realsrnv.models
+TIVTC                     tivtc                       v2          com.nodame.tivtc
+BasicVSR++                vsbasicvsrpp                3.0.0       vsbasicvsrpp
+vsmlrt_models             vsmlrt_models               v15.16      io.github.amusementclub.vsmlrt_models
+FFTSpectrum-rs            fftspectrum_rs              v1.0.13     sgt.fftspectrum_rs
+FFTW3 Library             fftw3_library               3.3.10      org.fftw.fftw3
+FieldHint                 fh                          v3          com.nodame.fieldhint
+FluxSmooth                flux                        v2          com.nodame.fluxsmooth
+fmtconv                   fmtc                        r30         fmtconv
+TemporalSoften2           focus2                      v1          chikuzen.does.not.have.his.own.domain.focus2
+fpng                      fpng                        1.0         tools.mike.fpng
+FrameRateConverter        frc                         v2.0-beta   com.vapoursynth.frc
+Frfun7                    frfun7                      v2          com.nodame.frfun7
+Fix-Telecined-Fades       ftf                         r5          com.deinterlace.ftf
+fvsfunc                   fvsfunc                     git:076dbde fvsfunc
+gifski                    gifski                      R1          com.julek.gifski
+AddGrain                  grain                       r10         com.holywu.addgrain
+Grayworld                 grwrld                      1.0.4       com.vapoursynth.grayworld
+havsfunc                  havsfunc                    git:5baf9c2 havsfunc
+Histogram                 hist                        v2          com.nodame.histogram
+HQDn3D                    hqdn3d                      r2.0.1      com.vapoursynth.hqdn3d
+Hysteresis                hysteresis                  v1.2.0      sgt.hysteresis
+ICCConvert                iccc                        6.2         yomiko.collection.iccconvert
+insaneAA                  insaneaa                    0.91        insaneaa
+IT                        it                          v1.2        in.7086.it
+JincResize                jinc                        r7.2        com.vapoursynth.jincresize
+julek                     julek                       r3          com.julek.plugin
+kagefunc                  kagefunc                    git:96947a1 kagefunc
+KNLMeansCL                knlm                        v1.1.1      com.Khanattila.KNLMeansCL
+LGhost                    lghost                      r1          com.holywu.lghost
+LibP2P                    libp2p                      r2          com.djatom.libp2p
+LimitedSharpen2           limitedsharpen2             v2          limitedsharpen2
+llvmexpr                  llvmexpr                    R4.4        com.yuygfgg.llvmexpr
+lostfunc                  lostfunc                    v1          lostfunc
+LSMASHSource              lsmas           1296.0.0.0  1296.0.0.0  systems.innocent.lsmas
+Manipulate Motion Vectors manipmv                     1.2.2       tools.mike.manipmv
+MatchHistogram            matchhist                   v2          com.nodame.matchhistogram
+MCDenoise                 MCDenoise                   r3          mcdenoise
+Median                    median                      v4          com.nodame.median
+vsmlrt-vsmigx             migx                        v15.16      io.github.amusementclub.vs_migraphx
+Miscfilters (obsolete)    misc                        R2          com.vapoursynth.misc
+MotionMask                motionmask                  v2          com.nodame.motionmask
+ReadMpls                  mpls                        r5          com.holywu.readmpls
+MSmoosh                   msmoosh                     v1.1        com.nodame.msmoosh
+MTCombMask                mtcm                        r1          com.julek.mtcombmask
+muvsfunc                  muvsfunc                    git:d278cd3 muvsfunc
+MVTools                   mv                          v24         com.nodame.mvtools
+mvc-source                mvc                         v0.8.0      de.duttke.mvc
+mvmulti                   mvmulti                     r9          mvmulti
+MVTools (float)           mvsf                        r9          com.nodame.mvsf
+mvsfunc                   mvsfunc                     git:865c748 mvsfunc
+vsmlrt-vsncnn             ncnn                        v15.16      io.github.amusementclub.vs_ncnn
+Neo DFTTest               neo_dfttest                 r12         in.7086.neo_dfttest
+Neo f3kdb                 neo_f3kdb                   r10         in.7086.neo_f3kdb
+Neo FFT3D                 neo_fft3d                   r13         in.7086.neo_fft3d
+Neo MiniDeen              neo_minideen                r11         in.7086.neo_minideen
+Neo Temporal Median       neo_tmedian                 r2          in.7086.neo_tmedian
+nlm_cuda                  nlm_cuda                    v4          io.github.amusementclub.nlm_cuda
+nlm-ispc                  nlm_ispc                    v4          io.github.amusementclub.vs-nlm-ispc
+NNEDI3                    nnedi3                      v12         com.deinterlace.nnedi3
+NNEDI3CL                  nnedi3cl                    r8          com.holywu.nnedi3cl
+nnedi3_resample           nnedi3_resample             git:314c644 nnedi3_resample
+nnedi3_rpow2              nnedi3_rpow2                rev6        nnedi3_rpow2
+NNEDI3 Weights            nnedi3_weights              r1          com.deinterlace.nnedi3.weights
+vs-noise                  noise                       r4          moe.grass.addnoise
+NoiseGen                  noisegen                    r1          com.mio.noisegen
+NRDB                      nrdb                        git:dd2f56a nrdb
+ocd                       ocd                         0.6         void.ocd
+OCR                       ocr                         R3          biz.srsfckn.ocr
+vsmlrt-vsort              ort                         v15.16      io.github.amusementclub.vs_onnxruntime
+vsmlrt-vsov               ov                          v15.16      io.github.amusementclub.vs_openvino
+Oyster                    Oyster                      git:7d52c78 oyster
+vs-placebo                placebo                     v3.3.1      com.vs.placebo
+DeblockPP7                pp7                         r4          com.holywu.pp7
+PlaneStatsMod             psm                         r3          com.julek.psm
+pvsfunc                   pvsfunc                     4.4.0       pvsfunc
+QRCodeSource              qr                          Release_1.0.0.0 net.bigjungle.qr
+RainbowSmooth             RainbowSmooth               git:d75886e rainbowsmooth
+RealCUGAN-ncnn-Vulkan     rcnv                        r2          com.vapoursynth.realcugannv
+RealCUGAN-ncnn-Vulkan models rcnv                        r2          com.vapoursynth.realcugannv.models
+ReduceFlicker             rdfl                        0.0.0-VS    chikuzen.does.not.have.his.own.domain.reduceflicker
+Chroma reconstruction     recon                       v0.1.0      dev.setsugen.reconstruct
+RemapFrames               remap                       v1.1        blaze.plugin.remap
+RemoveDirt                removedirt                  v1.1        com.vapoursynth.removedirt
+resamplehq                resamplehq                  v2.1.2      resamplehq
+resize2                   resize2                     0.4.0       dev.setsugen.resize2
+Retinex                   retinex                     r4          com.invalid.identifier.retinex
+RGVS (float)              rgsf                        r5          com.vapoursynth.removegrainsf
+RemoveGrain               rgvs                        R1          com.vapoursynth.removegrainvs
+RealSR                    rsnv                        r3          com.vapoursynth.realsrnv
+SangNom                   sangnom                     r42         com.mio.sangnom
+Scxvid                    scxvid                      v1          com.nodame.scxvid
+SmoothUV                  smoothuv                    v3          com.nodame.smoothuv
+SRMD                      srmdnv                      r3          com.vapoursynth.srmdnv
+SRMD models               srmdnv_models               r1          com.vapoursynth.srmdnv.models
+SSIMULACRA2               ssimulacra2                 r3          com.julek.ssimulacra2
+SSIQ                      ssiq                        v1.0        com.nodame.ssiq
+stgfunc                   stgfunc                     3.1.2       stgfunc
+Subtext                   sub                         R5          biz.srsfckn.subtext
+TBilateral                tbilateral                  v4          com.nodame.tbilateral
+TCanny                    tcanny                      r14         com.holywu.tcanny
+tcasFilter                tcax                        20181220    github.com.emako
+TColorMask                tcm                         r1          com.djatom.tcm
+TComb                     tcomb                       v4          com.nodame.tcomb
+TCPClip                   tcpclip                     2.4.0       tcpclip
+TDeintMod                 tdm                         r10         com.holywu.tdeintmod
+TEdgeMask                 tedgemask                   v1          com.nodame.tedgemask
+TimeCube                  timecube                    r5          day.simultaneous.4
+TempLinearApproximate     tla                         r3          denoising.temporal.templinearapproximate
+TMaskCleaner              tmc                         r1          com.djatom.tmc
+TemporalMedian            tmedian                     v1          com.nodame.temporalmedian
+TNLMeans                  tnlm                        git:22a40af systems.innocent.tnlm
+Tonemap                   tonemap                     R2          com.ifb.tonemap
+vctrans                   trans                       2015-09-10  in.trans.vcm
+vsmlrt-vstrt              trt                         v15.16      io.github.amusementclub.vs_tensorrt
+TTempSmooth               ttmpsm                      r4.1        com.holywu.ttempsmooth
+vcm                       vcm                         2026-01-01  in.vcmohan.cm
+VFRToCFR                  vfrtocfr                    v1.0        blaze.plugin.vfrtocfr
+vfx - Special Effects     vfx                         2021-10-31  com.mohanvc.vfx
+VideoInputSource          video_input_source             git:3cf3e05 org.fieliapm.VideoInputSource
+Vine                      Vine                        git:b8285e8 vine
+VIVTC                     vivtc                       R1          org.ivtc.v
+VMAF                      vmaf                        r10         com.holywu.vmaf
+vs-aa                     vsaa                        1.12.3      vsaa
+vsDDColor                 vsddcolor                   1.0.0       vsddcolor
+vs-dehalo                 vsdehalo                    1.10.3      vsdehalo
+Depir                     vsdpir                      4.3.0       vsdpir
+vs-exprtools              vsexprtools                 1.8.3       vsexprtools
+vsfieldkit                vsfieldkit                  2.1.0       vsfieldkit
+VSFilterMod               vsfm                        r5.2.6      com.holywu.vsfiltermod
+vsgrlir                   vsgrlir                     1.1.1       vsgrlir
+HIP-SSIMU2-AMD            vship_amd                   v4.1.0      com.lumen.vship_amd
+HIP-SSIMU2-NVIDIA         vship_nvidia                v4.1.0      com.lumen.vship_nvidia
+vs-jetpack                vsjetpack                   2.2.0       vsjetpack
+vs-kernels                vskernels                   3.4.4       vskernels
+vsmask                    vsmask                      0.5.1       vsmask
+vsMiDaS                   vsmidas                     1.1.0       vsmidas
+vsmlrt_contrib_models     vsmlrt_contrib_models             v15.16      io.github.amusementclub.vsmlrt_contrib_models
+vsmlrt_ext_models         vsmlrt_ext_models             v13.2       io.github.amusementclub.vsmlrt_ext_models
+vsmlrt hip migx runtime   vsmlrt_hip_migx_runtime             v15.16      io.github.amusementclub.vsmlrt_hip_migx_runtime

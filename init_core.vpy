@@ -29,6 +29,12 @@ print(str(core))
 # Load Source Video into Memory (using LWLibavSource)
 clip = core.lsmas.LWLibavSource(source=ENVIRON["INPUT_FILE"])
 
+print(f"Genişlik: {clip.width}px")
+print(f"Yükseklik: {clip.height}px")
+print(f"Toplam Kare Sayısı: {clip.num_frames}")
+print(f"Kare Hızı (FPS): {clip.fps.numerator / clip.fps.denominator}")
+print(f"Renk Formatı: {clip.format.name}")
+
 # Crop the source
 clip = core.std.Crop(clip, left=150, top=74, right=160, bottom=70)
 
